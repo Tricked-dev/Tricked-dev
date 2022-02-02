@@ -7,6 +7,6 @@ Hello Im Tricked a typescript/react developer you can find my website at https:/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tricked-dev&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117&compact=true" />
 </a>
 
-You can contact me via my email:  tricked@duck.com
+You can contact me via my email:  tricked@duck.com or trickedcodes@tutanota.com
 
 ![Profile Views](https://api.tricked.pro/badge?user=tricked&style=FlatSquare)
