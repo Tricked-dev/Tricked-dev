@@ -1,5 +1,7 @@
 Hello Im Tricked a typescript/react developer you can find my website at https://tricked.pro/
 
+My discord server [discord.gg/mY8zTARu4g](https://discord.gg/mY8zTARu4g)
+
 <a href="https://github.com/Tricked-dev?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tricked-dev&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
 </a>
@@ -7,6 +9,6 @@ Hello Im Tricked a typescript/react developer you can find my website at https:/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tricked-dev&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117&compact=true" />
 </a>
 
-You can contact me via my email:  tricked@duck.com or trickedcodes@tutanota.com
+You can contact me via my email:  trickedcodes@tutanota.com
 
 ![Profile Views](https://api.tricked.pro/badge?user=tricked&style=FlatSquare)
