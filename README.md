@@ -9,6 +9,4 @@ My discord server [discord.gg/mY8zTARu4g](https://discord.gg/mY8zTARu4g)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tricked-dev&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117&compact=true" />
 </a>
 
-You can contact me via my email:  trickedcodes@tutanota.com
-
 ![Profile Views](https://api.tricked.pro/badge?user=tricked&style=FlatSquare)
