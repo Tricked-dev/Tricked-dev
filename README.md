@@ -3,7 +3,11 @@ Hello Im Tricked a Rust and Typescript developer.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown     0 hrs 7 mins    ██████████████░░░░░░░░░░░   56.26 %
+YAML         0 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
+TypeScript   0 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+C#           0 hrs 1 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+XML          0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
