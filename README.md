@@ -1,6 +1,8 @@
-Hello Im Tricked a typescript/react developer you can find my website at https://tricked.pro/
+Hello Im Tricked a Rust and Typescript developer.
 
-My discord server [discord.gg/mY8zTARu4g](https://discord.gg/mY8zTARu4g)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <a href="https://github.com/Tricked-dev?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tricked-dev&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
