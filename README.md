@@ -3,12 +3,12 @@ Hello Im Tricked a Rust and Typescript developer.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 25 mins   █████████████████████▓░░░   86.17 %
-Markdown     0 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-YAML         0 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-JSON         0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-C#           0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Bash         0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript   2 hrs 43 mins   █████████████████████░░░░   84.32 %
+Markdown     0 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+JSON         0 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+YAML         0 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+C#           0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TOML         0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
