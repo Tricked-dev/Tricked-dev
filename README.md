@@ -3,12 +3,12 @@ Hello Im Tricked a Rust and Typescript developer.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript       15 hrs 22 mins  ████████▓░░░░░░░░░░░░░░░░   34.87 %
-Rust             11 hrs 27 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-Python           2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-TOML             2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-JSON             2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Svelte           2 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+TypeScript       16 hrs 5 mins   █████████░░░░░░░░░░░░░░░░   35.91 %
+Rust             11 hrs 27 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.55 %
+Python           2 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+TOML             2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+JSON             2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Svelte           2 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
