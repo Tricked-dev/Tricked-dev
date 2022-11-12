@@ -1,3 +1,3 @@
 Hello Im Tricked a Rust and Typescript developer.
 
-![](metrics.base.svg)
+[![](metrics.base.svg)](https://github.com/sponsors/Tricked-dev/)

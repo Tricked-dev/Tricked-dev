@@ -26,6 +26,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.base.svg
+          base: header, repositories
+          plugin_lines: yes
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} # Required
@@ -34,3 +36,6 @@ jobs:
           plugin_wakatime_url: https://wakatime.tricked.pro # Wakatime url endpoint
           plugin_wakatime_user: Tricked # User
           plugin_wakatime_sections: languages-graphs, projects-graphs, time, os, editors, languages
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list
+          plugin_sponsors_past: yes
