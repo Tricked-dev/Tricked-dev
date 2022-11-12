@@ -10,9 +10,6 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       # - uses: athul/waka-readme@master
       #   with:
@@ -28,7 +25,7 @@ jobs:
           filename: metrics.base.svg
           base: header, repositories
           plugin_lines: yes
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }} # Required
           plugin_wakatime_days: 7 # Display last week stats
