@@ -14,15 +14,15 @@ jobs:
       contents: write
 
     steps:
-      - uses: athul/waka-readme@master
-        with:
-          TIME_RANGE: last_30_days
-          #SHOW_TITLE: true
-          #SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          API_BASE_URL: ${{ secrets.WAKATIME_API_URL }}
+      # - uses: athul/waka-readme@master
+      #   with:
+      #     TIME_RANGE: last_30_days
+      #     #SHOW_TITLE: true
+      #     #SHOW_TIME: true
+      #     SHOW_MASKED_TIME: true
+      #     BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      #     API_BASE_URL: ${{ secrets.WAKATIME_API_URL }}
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.base.svg
@@ -32,5 +32,5 @@ jobs:
           plugin_wakatime_days: 7 # Display last week stats
           plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
           plugin_wakatime_limit: 4 # Show 4 entries per graph
-          plugin_wakatime_url: http://wakatime.tricked.pro # Wakatime url endpoint
+          plugin_wakatime_url: http://wakatime.tricked.pro/api # Wakatime url endpoint
           plugin_wakatime_user: .user.login # User
