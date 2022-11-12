@@ -23,7 +23,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.base.svg
-          base: header, repositories
+          base: header
           plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_wakatime: yes
