@@ -35,5 +35,4 @@ jobs:
           plugin_wakatime_sections: languages-graphs, projects-graphs, time, os, editors, languages
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list
-          plugin_sponsors_past: yes
           plugin_introduction: yes
