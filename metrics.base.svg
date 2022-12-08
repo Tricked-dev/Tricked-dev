@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}svg.calendar{margin-left:13px;margin-top:4px}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px;margin-bottom:4px}.sponsors .avatar{margin:2px}.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}svg.calendar{margin-left:13px;margin-top:4px}.introduction,.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:12px;margin-bottom:4px}.sponsors .avatar{margin:2px}.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{color:#58a6ff;text-decoration:none}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -65,7 +65,10 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">Im tricked!</div>
+                        <div class="introduction">
+                            We need more jokes on this platform
+                            <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
+                        </div>
                     </section>
                 </div>
             </section>
@@ -107,7 +110,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 99 repositories
+                            Watching 98 repositories
                         </div>
                     </section>
                 </div>
@@ -161,23 +164,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 42.584%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 41.87200000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 9.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 6.128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Astro</span>
-                                <div class="bar" style="width: 4.311999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <div class="bar" style="width: 5.3759999999999994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">unknown</span>
-                                <div class="bar" style="width: 4.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">5%</span>
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 5.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">7%</span>
                             </div>
                         </div>
                     </section>
@@ -186,23 +189,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">vwmetrics</span>
-                                <div class="bar" style="width: 18.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 18.432%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">tricked.pro</span>
+                                <div class="bar" style="width: 18.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">23%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">tricked-bot</span>
-                                <div class="bar" style="width: 18.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">23%</span>
+                                <div class="bar" style="width: 17.952%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">dotnet</span>
-                                <div class="bar" style="width: 14.056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">18%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">tricked.pro</span>
-                                <div class="bar" style="width: 11.184000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <span class="name">tricked-advent</span>
+                                <div class="bar" style="width: 10.504%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                         </div>
                     </section>
@@ -239,7 +242,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2022, 01:01:20  with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 8 Dec 2022, 00:59:12  with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
